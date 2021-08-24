@@ -1,5 +1,5 @@
 package entidade;
 
-public class Tecnico {
+public class Tecnico extends Pessoa{
 
 }

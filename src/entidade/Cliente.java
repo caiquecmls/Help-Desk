@@ -1,5 +1,7 @@
 package entidade;
 
-public class Cliente {
+public class Cliente extends Pessoa {
+	
+
 
 }
