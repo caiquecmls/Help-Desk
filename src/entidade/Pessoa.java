@@ -4,8 +4,10 @@ public class Pessoa {
 	
 	String nome;
 	String email;
-	String senha;
+	String dataNascimento;
 	int cpf;
+	int idade;
+
 	
 	
 	
@@ -21,12 +23,7 @@ public class Pessoa {
 	public void setEmail(String email) {
 		this.email = email;
 	}
-	public String getSenha() {
-		return senha;
-	}
-	public void setSenha(String senha) {
-		this.senha = senha;
-	}
+
 	public int getCpf() {
 		return cpf;
 	}
